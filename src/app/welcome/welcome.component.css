@@ -1,0 +1,13 @@
+.one{
+  color: red;
+
+}
+.nav{
+  background-color: beige;
+  height: 58px;
+}
+.title{
+  font-size: large;
+  text-align: left;
+  padding-top: 20px;
+}
